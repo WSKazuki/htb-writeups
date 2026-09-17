@@ -58,7 +58,6 @@ Response reveals the secret array:
 ### Step 3 — Use the secret command
 
 Type it into the game terminal:
-
 Flag returned in the server response.
 
 ---
